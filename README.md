@@ -2,7 +2,7 @@
 
 ## About Me 🌎
 
-In transition to joining the tech industry as a software developer.
+In transition to a career in the tech industry as a software developer.
 
 ## Education 📚
 
