@@ -1,21 +1,14 @@
 # Hi there, thanks for visiting my GitHub profile! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevindimayuga/)
-
-<!-- Placeholder badge when I make my own personal profile website -->
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
-
 ## About Me 🌎
 
 In transition to joining the tech industry as a software developer.
 
 ## Education 📚
 
-```
-Student at Northwestern University | Full Stack Coding Boot Camp | Expected Graduation: November 2023  
-Master's Degree in Business Administration | Concordia University Chicago  
-Bachelor's Degree in Kinesiology with a Minor in Psychology | University of Illinois at Chicago
-```
+![NU School Badge](https://img.shields.io/badge/Student_at_Nortwestern_University_(NU)-Full_Stack_Coding_Boot_Camp-8A2BE2)  
+![CUC School Badge](https://img.shields.io/badge/Concordia_University_Chicago_(CUC)-Master_of_Business_Administration_(MBA)-6b0000)  
+![UIC School Badge](https://img.shields.io/badge/University_of_Illinois_at_Chicago_(UIC)-Bachelor_of_Science_in_Kinesiology_with_a_Minor_in_Psychology-0c4273)
 
 ## GitHub Statistics 📊
 
@@ -31,11 +24,19 @@ Bachelor's Degree in Kinesiology with a Minor in Psychology | University of Illi
 
 ## Languages, Tools, Platforms, Databases, Frameworks, Libraries, etc. 💻
 
+
+
 ## Contact Me 📩
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com) k.dimayuga22@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevindimayuga/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.dimayuga22@gmail.com)
+
+<!-- Placeholder badge when I make my own personal profile website -->
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
 
 ## Fun Facts 🎮
+
+
 
 <!--
 **kevindimayuga/kevindimayuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
