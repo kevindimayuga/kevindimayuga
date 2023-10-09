@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 
 ## Projects and Statistics
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${kevindimayuga}.${kevindimayuga})
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kevindimayuga.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kevindimayuga.kevindimayuga)
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindimayuga&count_private=true&show_icons=true&theme=dark)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevindimayuga&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## Languages, Tools, Platforms, Databases, Frameworks, Libraries, etc.:
 
