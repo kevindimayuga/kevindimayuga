@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindimayuga&count_private=true&show_icons=true&theme=dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Languages, Tools, Platforms, Databases, Frameworks, Libraries, etc.:
 
 ## Networking
