@@ -20,6 +20,11 @@ In transition to a career in the tech industry as a software developer.
 
 <!-- wakatime weekly metrics not working below -->
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Languages, Tools, Platforms, Databases, Frameworks, Libraries, etc. 💻
