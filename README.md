@@ -12,8 +12,7 @@ In transition to a career in the tech industry as a software developer.
 
 ## GitHub Statistics 📊
 
-<!-- GitHub profile views badge, but not working yet -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kevindimayuga.kevindimayuga) -->
+![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkevindimayuga%2Fkevindimayuga%2FREADME)
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindimayuga&count_private=true&show_icons=true&theme=dark)
 ![Kevin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevindimayuga&layout=compact&theme=dark)
