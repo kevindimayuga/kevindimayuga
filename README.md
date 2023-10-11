@@ -12,20 +12,15 @@ In transition to a career in the tech industry as a software developer.
 
 ## GitHub Statistics 📊
 
-![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkevindimayuga%2Fkevindimayuga%2FREADME)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkevindimayuga%2Fkevindimayuga&label=Visitors&countColor=%23263759)
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindimayuga&count_private=true&show_icons=true&theme=dark)
 ![Kevin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevindimayuga&layout=compact&theme=dark)
 
-<!-- wakatime weekly metrics not working below -->
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         1 hr 23 mins    ███████████████████████░░   92.44 %
-YAML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-ActionScript 3   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
@@ -45,9 +40,9 @@ Other            1 min           ▒░░░░░░░░░░░░░░�
 
 ## Fun Facts 🎮
 
-- I am a huge sports fan and love the Chicago Bulls and Chicago Bears. 
-- I enjoy playing basketball, volleyball, video games and spending time with loved ones.
-- I have dimples, which are also called gelasins and are a rare genetic trait (20-30% of the population have them).
+- I am a huge sports fan and love the Chicago Bulls and Chicago Bears. 🐻
+- I enjoy playing basketball, volleyball, video games and spending time with loved ones. 🏀
+- I have dimples, which are also called gelasins and are a rare genetic trait (20-30% of the population have them). 😁
     - I used to be able to hold a dime in my right one, but I can't anymore. 😢
 
 <!--
