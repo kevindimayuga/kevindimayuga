@@ -41,7 +41,10 @@ No activity tracked
 
 ## Fun Facts 🎮
 
-
+- I am a huge sports fan and love the Chicago Bulls and Chicago Bears. 
+- I enjoy playing basketball, volleyball, video games and spending time with loved ones.
+- I have dimples, which are also called gelasins and are a rare genetic trait (20-30% of the population have them).
+    - I used to be able to hold a dime in my right one, but I can't anymore. 😢
 
 <!--
 **kevindimayuga/kevindimayuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
