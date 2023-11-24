@@ -20,10 +20,10 @@ In transition to a career in the tech industry as a software developer.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 31 mins   █████████████████▒░░░░░░░   69.53 %
-JSON         40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Markdown     34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-CSS          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+JavaScript   1 hr 7 mins     █████████████▓░░░░░░░░░░░   55.20 %
+Markdown     22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+JSON         17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+CSS          14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
 ```
 
 <!--END_SECTION:waka-->
