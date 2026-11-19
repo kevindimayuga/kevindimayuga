@@ -6,7 +6,7 @@ In transition to a career in the tech industry as a data analyst.
 
 ## Education 📚
 
-![NIU School Badge](https://img.shields.io/badge/Northern_Illinois_University_(NIU)-Business_Analytics_&_AI-red) 
+![NIU School Badge](https://img.shields.io/badge/Northern_Illinois_University_(NIU)-Business_Analytics_&_AI-red)  
 ![NU School Badge](https://img.shields.io/badge/Nortwestern_University_(NU)-Full_Stack_Coding_Boot_Camp-8A2BE2)  
 ![CUC School Badge](https://img.shields.io/badge/Concordia_University_Chicago_(CUC)-Master_of_Business_Administration_(MBA)-6b0000)  
 ![UIC School Badge](https://img.shields.io/badge/University_of_Illinois_at_Chicago_(UIC)-Bachelor_of_Science_(BS)_in_Kinesiology_with_a_Minor_in_Psychology-0c4273)
